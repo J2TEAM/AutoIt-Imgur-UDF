@@ -1,6 +1,5 @@
 #include-once
 
-#include <WinHttpObj.au3>
 #include 'include/Base64.au3' ; by Ward
 #include 'include/JSON.au3' ; by Ward
 
